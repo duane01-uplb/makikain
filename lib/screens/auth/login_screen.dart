@@ -66,7 +66,7 @@ class _LoginScreenState extends State<LoginScreen> {
                 const Icon(Icons.eco_rounded, size: 64, color: Colors.green),
                 const SizedBox(height: 8),
                 Text(
-                  'Elbi Food Share',
+                  'Makikain',
                   textAlign: TextAlign.center,
                   style: Theme.of(context).textTheme.headlineMedium?.copyWith(
                         fontWeight: FontWeight.bold,
